@@ -1,7 +1,7 @@
 ### <h1>Olá! Eu sou o Abel! Prazer! 👋</h1>
 
 <h3>- 👨‍🎓 Atualmente eu sou graduando em Engenharia de Transporte pela FT-UNICAMP</h2>
-<h3>- 📚 Minha área de estudo vem sendo principlamente para a área de dados, machine learning e IA (Inteligência Artificial)</h3>
+<h3>- 📚 Minha área de estudo vem sendo principalmente para a área de dados, machine learning e IA (Inteligência Artificial)</h3>
 <h3>- 👨‍🏫 Atualmente sou Monitor na disciplina de estatísitica para 4 turmas turmas na Faculdade (Eng. Ambiental, Eng. Transportes, Sistemas de Informação e Tec Saneamento)</h3>
 <h3>- 💬 Tenho um canal no YouTube onde ensino programação com Estatística: https://www.youtube.com/channel/UCwA0jaKFfgyOUrWx5CN_Nzw</h3>
 <h3>- 📫 Como me encontrar: e-mail: contato@abelrapha.com ou pelo linkedin: https://www.linkedin.com/in/abel-rapha-280a0a216/</h3>

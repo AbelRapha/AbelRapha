@@ -2,7 +2,7 @@
 
 * 👨‍🎓 Atualmente eu sou graduando em Engenharia de Transporte pela FT-UNICAMP</h2>
 * 📚 Minha área de estudo vem sendo principalmente para a área de dados, machine learning e IA (Inteligência Artificial)
-* 👨‍🏫 Atualmente sou Monitor na disciplina de estatísitica para 4 turmas turmas na Faculdade (Eng. Ambiental, Eng. Transportes, Sistemas de Informação e Tec Saneamento)
+* 👨‍🏫 Já fui Monitor na disciplina de estatísitica para 4 turmas turmas na Faculdade (Eng. Ambiental, Eng. Transportes, Sistemas de Informação e Tec Saneamento)
 * 💬 Tenho um canal no YouTube onde ensino programação com Estatística: [Descomplicando Dados](https://www.youtube.com/channel/UCwA0jaKFfgyOUrWx5CN_Nzw)
 * 📫 Como me encontrar: e-mail: contato@abelrapha.com ou pelo [linkedin](https://www.linkedin.com/in/abel-rapha-280a0a216/)
 * 💭 Uma curiosidade sobre mim: Eu sou muito comunicativo, então não tenha vergonha de vir falar comigo 😊

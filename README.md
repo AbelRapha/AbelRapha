@@ -1,11 +1,11 @@
-# Olá! Eu sou o Abel! Prazer! 👋
+# Hi! I'm Abel! Nice to meet you! 👋
 
-* 👨‍🎓 Atualmente eu sou graduando em Engenharia de Transporte pela FT-UNICAMP</h2>
-* 📚 Minha área de estudo vem sendo principalmente para a área de dados, machine learning e IA (Inteligência Artificial)
-* 👨‍🏫 Já fui Monitor na disciplina de estatísitica para 4 turmas turmas na Faculdade (Eng. Ambiental, Eng. Transportes, Sistemas de Informação e Tec Saneamento)
-* 💬 Tenho um canal no YouTube onde ensino programação com Estatística: [Descomplicando Dados](https://www.youtube.com/channel/UCwA0jaKFfgyOUrWx5CN_Nzw)
-* 📫 Como me encontrar: e-mail: contatobeldev@gmail.com ou pelo [linkedin](https://www.linkedin.com/in/abel-rapha-280a0a216/)
-* 💭 Uma curiosidade sobre mim: Eu sou muito comunicativo, então não tenha vergonha de vir falar comigo 😊
+* 👨‍🎓 I’m currently an undergraduate student in Transportation Engineering at FT-UNICAMP
+* 📚 My area of study has been focused mainly on data analysis, machine learning, and AI (Artificial Intelligence)
+* 👨‍🏫 I’ve been a Teaching Assistant in the Statistics course for 4 university classes (Environmental Engineering, Transportation Engineering, Information Systems, and Sanitation Technology)
+* 💬 I have a YouTube channel where I teach programming with Statistics and other things: [Descomplicando Dados](https://www.youtube.com/channel/UCwA0jaKFfgyOUrWx5CN_Nzw)
+* 📫 How to reach me: email: contatobeldev@gmail.com or via [LinkedIn](https://www.linkedin.com/in/abel-rapha-280a0a216/)
+* 💭 A fun fact about me: I’m super outgoing, so don’t be shy to come chat with me 😊
 
 <div>
   <a href="https://github.com/AbelRapha">
@@ -22,7 +22,7 @@
   <img align="center" alt="Abel-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
   
-  ## Seja muito bem-vindo a minha aventura no mundo dos dados 👨‍💻
+  ## Welcome to my adventure in this real world of data 👨‍💻
 <div> 
   <a href="https://www.youtube.com/channel/UCwA0jaKFfgyOUrWx5CN_Nzw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/abel_rapha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

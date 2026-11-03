@@ -25,7 +25,7 @@ Data engineer and analytics professional, focused on AI products. I study Transp
 | [Premius](https://app.usepremius.com) | Portfolio management for insurance brokers, with over 300 contracts registered |
 | [TIC Eixo Norte](https://projetoticeixonorte.vercel.app) | Tracks the TIC and its impact on mobility around the city |
 | [NF CSV → XML SAMPA](https://nf-csv-to-xml-sampa.vercel.app) | Converts São Paulo city tax invoices to XML |
-| [Waterway freight calculator](https://github.com/AbelRapha/hidrovias_hackathon) | Freight estimate for vessels. Winner of the Hidrovias do Brasil hackathon |
+| [Waterway freight calculator](https://lnkd.in/p/dB_y6HxJ) | Freight estimate for vessels. Winner of the Hidrovias do Brasil hackathon |
 | [OR Engineering](https://or-engineering.vercel.app) | Origin-destination matrices built from OpenStreetMap, used in the UNICAMP Operations Research course |
 | [Power BI Dashboards](https://github.com/AbelRapha/Dashboards-PBI) | Example dashboards for sales, HR and production |
 | [n8n Finances Agent](https://github.com/AbelRapha/n8n_finances_agent) | Personal finance automation driven by natural language |

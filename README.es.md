@@ -25,7 +25,7 @@ Ingeniero de datos y analytics, enfocado en productos de IA. Estudio Ingeniería
 | [Premius](https://app.usepremius.com) | Gestión de cartera para corredores de seguros, con más de 300 contratos registrados |
 | [TIC Eixo Norte](https://projetoticeixonorte.vercel.app) | Seguimiento del TIC y de su impacto en la movilidad del entorno de la ciudad |
 | [NF CSV → XML SAMPA](https://nf-csv-to-xml-sampa.vercel.app) | Convierte las facturas fiscales de la alcaldía de São Paulo a XML |
-| [Calculadora de flete fluvial](https://github.com/AbelRapha/hidrovias_hackathon) | Estimación de flete para embarcaciones. Ganador del hackathon de Hidrovias do Brasil |
+| [Calculadora de flete fluvial](https://lnkd.in/p/dB_y6HxJ) | Estimación de flete para embarcaciones. Ganador del hackathon de Hidrovias do Brasil |
 | [OR Engineering](https://or-engineering.vercel.app) | Matrices origen-destino a partir de OpenStreetMap, usadas en la asignatura de Investigación Operativa de la UNICAMP |
 | [Paneles Power BI](https://github.com/AbelRapha/Dashboards-PBI) | Paneles de ejemplo para ventas, RR. HH. y producción |
 | [n8n Finances Agent](https://github.com/AbelRapha/n8n_finances_agent) | Automatización de finanzas personales con lenguaje natural |

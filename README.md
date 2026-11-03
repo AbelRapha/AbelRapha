@@ -25,7 +25,7 @@ Engenheiro de dados e analytics, com foco em produtos de IA. Estudo Engenharia d
 | [Premius](https://app.usepremius.com) | Gestão de carteira para corretores de seguros, com mais de 300 contratos registrados |
 | [TIC Eixo Norte](https://projetoticeixonorte.vercel.app) | Acompanhamento do TIC e do impacto na mobilidade no entorno da cidade |
 | [NF CSV → XML SAMPA](https://nf-csv-to-xml-sampa.vercel.app) | Converte notas fiscais da prefeitura de São Paulo para XML |
-| [Calculadora de frete hidroviário](https://github.com/AbelRapha/hidrovias_hackathon) | Estimativa de frete para embarcações. Venceu o hackathon da Hidrovias do Brasil |
+| [Calculadora de frete hidroviário](https://lnkd.in/p/dB_y6HxJ) | Estimativa de frete para embarcações. Venceu o hackathon da Hidrovias do Brasil |
 | [OR Engineering](https://or-engineering.vercel.app) | Matrizes origem-destino a partir do OpenStreetMap, usadas na disciplina de Pesquisa Operacional da UNICAMP |
 | [Dashboards Power BI](https://github.com/AbelRapha/Dashboards-PBI) | Painéis de exemplo para vendas, RH e produção |
 | [n8n Finances Agent](https://github.com/AbelRapha/n8n_finances_agent) | Automação de finanças pessoais por linguagem natural |

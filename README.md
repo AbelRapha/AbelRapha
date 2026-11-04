@@ -6,7 +6,7 @@
 
 Engenheiro de dados e analytics, com foco em produtos de IA. Estudo Engenharia de Transportes na UNICAMP e trabalho com dados desde 2021.
 
-- 🏥 Hoje atuo na Hapvida, onde modelo dados clínicos e construo painéis que a operação e a auditoria médica usam para tomar decisões.
+- 🏥 Hoje atuo na Hapvida, onde modelo dados clínicos e construo painéis que a operação e a auditoria médica usem para tomar decisões.
 - 🧮 Gosto de problemas de pesquisa operacional, como roteirização, alocação de recursos e planejamento.
 - 🛠️ Construo ferramentas para problemas reais, como a [Premius](https://app.usepremius.com), plataforma de gestão de carteira para corretores.
 - 🎥 Ensino programação e dados no canal [Descomplicando Dados](https://www.youtube.com/channel/UCwA0jaKFfgyOUrWx5CN_Nzw).
